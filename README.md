@@ -9,3 +9,4 @@ To summarize:
 • Numbers larger than 100 are written as x hundred. For example, 600 becomes six cent (“six hundred”).
 • To make things simpler, we’ll say that 80 is quatre vingt (without an “s”) and 200 is deux cent (also without an “s”). We also do no want hyphens between number parts (so 17 becomes dix sept and not dix-sept).
 https://blog.udemy.com/french-numbers-1-1000/
+I have used the code for Finite State Translator provided by the professor.
